@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8f11d70-c140-4c15-8792-c4a1087827a8" name="Changes" comment="">
+    <list default="true" id="d8f11d70-c140-4c15-8792-c4a1087827a8" name="Changes" comment="testing done">
       <change afterPath="$PROJECT_DIR$/.idea/TicTacToe.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -90,6 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1712399491627</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing done">
+      <option name="closed" value="true" />
+      <created>1712401443389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712401443390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing done" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing done" />
   </component>
 </project>
